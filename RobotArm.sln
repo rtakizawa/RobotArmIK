@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotArm", "RobotArm.csproj", "{FED575A3-7EB5-CEB3-3986-60B7FFCDE4AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FED575A3-7EB5-CEB3-3986-60B7FFCDE4AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED575A3-7EB5-CEB3-3986-60B7FFCDE4AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED575A3-7EB5-CEB3-3986-60B7FFCDE4AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED575A3-7EB5-CEB3-3986-60B7FFCDE4AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

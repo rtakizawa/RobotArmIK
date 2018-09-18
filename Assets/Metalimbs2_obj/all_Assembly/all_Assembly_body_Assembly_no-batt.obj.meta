@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: f3efc757dfa49184cb68f536d5a570e1
+timeCreated: 1535885624
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: "\u30BD\u30EA\u30C3\u30C91"
+    100004: "\u30BD\u30EA\u30C3\u30C910"
+    100006: "\u30BD\u30EA\u30C3\u30C911"
+    100008: "\u30BD\u30EA\u30C3\u30C912"
+    100010: "\u30BD\u30EA\u30C3\u30C913"
+    100012: "\u30BD\u30EA\u30C3\u30C914"
+    100014: "\u30BD\u30EA\u30C3\u30C915"
+    100016: "\u30BD\u30EA\u30C3\u30C916"
+    100018: "\u30BD\u30EA\u30C3\u30C917"
+    100020: "\u30BD\u30EA\u30C3\u30C918"
+    100022: "\u30BD\u30EA\u30C3\u30C919"
+    100024: "\u30BD\u30EA\u30C3\u30C92"
+    100026: "\u30BD\u30EA\u30C3\u30C920"
+    100028: "\u30BD\u30EA\u30C3\u30C93"
+    100030: "\u30BD\u30EA\u30C3\u30C94"
+    100032: "\u30BD\u30EA\u30C3\u30C95"
+    100034: "\u30BD\u30EA\u30C3\u30C96"
+    100036: "\u30BD\u30EA\u30C3\u30C97"
+    100038: "\u30BD\u30EA\u30C3\u30C98"
+    100040: "\u30BD\u30EA\u30C3\u30C99"
+    400000: //RootNode
+    400002: "\u30BD\u30EA\u30C3\u30C91"
+    400004: "\u30BD\u30EA\u30C3\u30C910"
+    400006: "\u30BD\u30EA\u30C3\u30C911"
+    400008: "\u30BD\u30EA\u30C3\u30C912"
+    400010: "\u30BD\u30EA\u30C3\u30C913"
+    400012: "\u30BD\u30EA\u30C3\u30C914"
+    400014: "\u30BD\u30EA\u30C3\u30C915"
+    400016: "\u30BD\u30EA\u30C3\u30C916"
+    400018: "\u30BD\u30EA\u30C3\u30C917"
+    400020: "\u30BD\u30EA\u30C3\u30C918"
+    400022: "\u30BD\u30EA\u30C3\u30C919"
+    400024: "\u30BD\u30EA\u30C3\u30C92"
+    400026: "\u30BD\u30EA\u30C3\u30C920"
+    400028: "\u30BD\u30EA\u30C3\u30C93"
+    400030: "\u30BD\u30EA\u30C3\u30C94"
+    400032: "\u30BD\u30EA\u30C3\u30C95"
+    400034: "\u30BD\u30EA\u30C3\u30C96"
+    400036: "\u30BD\u30EA\u30C3\u30C97"
+    400038: "\u30BD\u30EA\u30C3\u30C98"
+    400040: "\u30BD\u30EA\u30C3\u30C99"
+    2300000: "\u30BD\u30EA\u30C3\u30C91"
+    2300002: "\u30BD\u30EA\u30C3\u30C910"
+    2300004: "\u30BD\u30EA\u30C3\u30C911"
+    2300006: "\u30BD\u30EA\u30C3\u30C912"
+    2300008: "\u30BD\u30EA\u30C3\u30C913"
+    2300010: "\u30BD\u30EA\u30C3\u30C914"
+    2300012: "\u30BD\u30EA\u30C3\u30C915"
+    2300014: "\u30BD\u30EA\u30C3\u30C916"
+    2300016: "\u30BD\u30EA\u30C3\u30C917"
+    2300018: "\u30BD\u30EA\u30C3\u30C918"
+    2300020: "\u30BD\u30EA\u30C3\u30C919"
+    2300022: "\u30BD\u30EA\u30C3\u30C92"
+    2300024: "\u30BD\u30EA\u30C3\u30C920"
+    2300026: "\u30BD\u30EA\u30C3\u30C93"
+    2300028: "\u30BD\u30EA\u30C3\u30C94"
+    2300030: "\u30BD\u30EA\u30C3\u30C95"
+    2300032: "\u30BD\u30EA\u30C3\u30C96"
+    2300034: "\u30BD\u30EA\u30C3\u30C97"
+    2300036: "\u30BD\u30EA\u30C3\u30C98"
+    2300038: "\u30BD\u30EA\u30C3\u30C99"
+    3300000: "\u30BD\u30EA\u30C3\u30C91"
+    3300002: "\u30BD\u30EA\u30C3\u30C910"
+    3300004: "\u30BD\u30EA\u30C3\u30C911"
+    3300006: "\u30BD\u30EA\u30C3\u30C912"
+    3300008: "\u30BD\u30EA\u30C3\u30C913"
+    3300010: "\u30BD\u30EA\u30C3\u30C914"
+    3300012: "\u30BD\u30EA\u30C3\u30C915"
+    3300014: "\u30BD\u30EA\u30C3\u30C916"
+    3300016: "\u30BD\u30EA\u30C3\u30C917"
+    3300018: "\u30BD\u30EA\u30C3\u30C918"
+    3300020: "\u30BD\u30EA\u30C3\u30C919"
+    3300022: "\u30BD\u30EA\u30C3\u30C92"
+    3300024: "\u30BD\u30EA\u30C3\u30C920"
+    3300026: "\u30BD\u30EA\u30C3\u30C93"
+    3300028: "\u30BD\u30EA\u30C3\u30C94"
+    3300030: "\u30BD\u30EA\u30C3\u30C95"
+    3300032: "\u30BD\u30EA\u30C3\u30C96"
+    3300034: "\u30BD\u30EA\u30C3\u30C97"
+    3300036: "\u30BD\u30EA\u30C3\u30C98"
+    3300038: "\u30BD\u30EA\u30C3\u30C99"
+    4300000: "\u30BD\u30EA\u30C3\u30C91"
+    4300002: "\u30BD\u30EA\u30C3\u30C910"
+    4300004: "\u30BD\u30EA\u30C3\u30C911"
+    4300006: "\u30BD\u30EA\u30C3\u30C912"
+    4300008: "\u30BD\u30EA\u30C3\u30C913"
+    4300010: "\u30BD\u30EA\u30C3\u30C914"
+    4300012: "\u30BD\u30EA\u30C3\u30C915"
+    4300014: "\u30BD\u30EA\u30C3\u30C916"
+    4300016: "\u30BD\u30EA\u30C3\u30C917"
+    4300018: "\u30BD\u30EA\u30C3\u30C918"
+    4300020: "\u30BD\u30EA\u30C3\u30C919"
+    4300022: "\u30BD\u30EA\u30C3\u30C92"
+    4300024: "\u30BD\u30EA\u30C3\u30C920"
+    4300026: "\u30BD\u30EA\u30C3\u30C93"
+    4300028: "\u30BD\u30EA\u30C3\u30C94"
+    4300030: "\u30BD\u30EA\u30C3\u30C95"
+    4300032: "\u30BD\u30EA\u30C3\u30C96"
+    4300034: "\u30BD\u30EA\u30C3\u30C97"
+    4300036: "\u30BD\u30EA\u30C3\u30C98"
+    4300038: "\u30BD\u30EA\u30C3\u30C99"
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
